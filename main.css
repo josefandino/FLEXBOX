@@ -4,7 +4,7 @@
 .container{width:100%;height:auto;
    background-color: #a2fadd;
    padding:1rem;}
-   
+
   .row1 {width:100%;height:auto;
    padding: 2rem;
     display: flex;justify-content:space-around;
@@ -38,26 +38,4 @@
      width: 50%;
   }
   .col-12 {
-    width: 100%;
-  /* }
-  @media (min-width: 992px) {
-    .row{ 
-     display: flex;
-     flex-row: row;
-     width: 25%;
-     background-color: blue;
-    }
-  }
-  @media (min-width: 768px) {
-    .row{  
-    display: flex;
-    flex-wrap: wrap;
-    width: 50%;
-    }
-  }
-  @media (max-width: 576px) {
-    .row{  
-    display: flex;
-    flex-direction:column;
-    }
-  } */
+    width: 100%;}
